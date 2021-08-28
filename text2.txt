@@ -1,0 +1,1 @@
+Added text2.txt to the feature_branch_2 which comes from the dev_branch_2.
